@@ -1,3 +1,5 @@
+*Copied from Cyfrin's [ERC20](https://github.com/Cyfrin/foundry-erc20-cu) course*
+
 # Foundry ERC20
 
 This is a section of the Cyfrin Foundry Solidity Course.
